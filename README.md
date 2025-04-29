@@ -8,7 +8,7 @@ Flame Game Jam 2025
 
 ## Game Instructions:
 #### LEFT: left arrow or A
-#### RIGHT: right arraow or D
+#### RIGHT: right arrow or D
 #### UP: up arrow or W
 #### DOWN: down arrow or X
 #### ATTACK: space bar
