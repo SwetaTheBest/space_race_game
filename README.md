@@ -1,8 +1,13 @@
 # Space Race Game
 
 Flame Game Jam 2025
-![Space Race](https://github.com/user-attachments/assets/7b9ea861-95f7-4c01-a651-4f7cd100dd45)
+</br>
+![Space Race Game]([assets/your-gif-name.gif](https://github.com/SwetaTheBest/space_race/blob/master/assets/images/space_race.gif))
 
+
+
+![Space Race](https://github.com/user-attachments/assets/7b9ea861-95f7-4c01-a651-4f7cd100dd45)
+</br>
 
 ## Play game [Click here](https://swetathebest.github.io/space_race_game/)
 
