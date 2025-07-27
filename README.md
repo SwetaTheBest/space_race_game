@@ -3,9 +3,8 @@
 Flame Game Jam 2025
 </br>
 
-<p align="center">
-  <img src="https://github.com/SwetaTheBest/space_race/blob/master/assets/images/space_race.gif" alt = "Space Race Game" width="100%" height="600px" />
-</p>
+![Space Race Game](https://github.com/SwetaTheBest/space_race_game/blob/main/assets/assets/images/space_race.gif)
+
 
 ![Space Race](https://github.com/user-attachments/assets/7b9ea861-95f7-4c01-a651-4f7cd100dd45)
 </br>
